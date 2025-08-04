@@ -1,7 +1,7 @@
 # first-html-website
 first html project on roadmap.sh
 
-http://127.0.0.1:5500/index.html
+https://roadmap.sh/projects/basic-html-website
 
 This README will tell you how to use my website.
 Right now there isn't much on there. Just a navigation bar, a link to my instagram, and some random other stuff on each page.
